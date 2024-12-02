@@ -1,0 +1,50 @@
+> salle entre les niveaux
+/.WWWWWWWWWWW.
+/.WWWWWWWWWWW.
+/.WWWWWWWWWWW.
+/.WWWWWWWWWWW.
+/.WWWWWWWWWWW.
+/...WWWWWWWWW.
+/.............
+> niveau 0
+(
+.............
+.WWWWWWWWWWW.
+.............
+)
+> niveau 1
+(
+WWWWWWWWWWW
+......WWW..
+)
+> niveau 2
+(
+WWWWWWWWWWW
+WWWWWWWWW..
+WWWWWWW..WW
+......WWWWW
+)
+> niveau 3
+(
+WWWWWWWWWWWWWWWWWWWWW
+......WWWW...WWWWW...
+)
+> niveau 4
+(
+WWWWWWWWWWWWW.WWWWWWWWWWW
+WWWWWWWWWWW.WWWWWWWWWWWWW
+WWWWWWWWWW.WWWW..WWWWW...
+....WWWW..WWWWWWWWWWWWWWW
+)
+> niveau 5
+(
+WWWWWWWWWWWWWW
+..............
+)
+> niveau 6
+(
+WWWWWWWWWWWWWWWWWWWWWWWWWWWW
+###########.............####
+WWWWWWWWWWWWWWWWWWWWWWW.WWWW
+WWWWWWWWWWWWWW.....WW..WWWWW
+)

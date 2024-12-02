@@ -1,0 +1,5 @@
+bouge_droite:1073741903
+bouge_gauche:1073741904
+jump:97
+dash:115
+atk_proche:100
